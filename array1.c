@@ -13,5 +13,14 @@ while (names[n] != '\0')
 }
 printf("%i", n);
 
+
+
+
+
+
+
+
+
+
     return 0;
 }
